@@ -9,7 +9,7 @@
 	<name>Jetty File Upload</name>
 
 	<properties>
-		<jettyVersion>9.0.2.v20130417</jettyVersion>
+		<jettyVersion>9.3.24.v20180605</jettyVersion>
 	</properties>
 
 	<dependencies>
